@@ -1,8 +1,10 @@
-# React + Vite
+# TAILWIND AND REACT PROPS
+ => IN THIS PROJECT I HAD LEARNT ABOUT SOME BASICS OF TAILWIND AND REACT PROPS 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ - Props are arguments passed into React components.
+ - Props are passed to components via HTML attributes.
 
-Currently, two official plugins are available:
+## WHY NEED PROPS 
+- IF WE ARE MAKING A SIMILAR CARD OR A COMPONENT IN WHICH ONLY SOME PARAMETERS LIKE: USERNAME, ID, PRODUCT NAME ARE DIFFERENT THEN BEFORE PROPS WE HAVE WRITE WHOLE CODE AGAIN AND CHANGE THE PARAMETERS
+- BUT AFTER PROPS, WE CAN PASS ARGUMENTS VIA HTML ATTRIBUTES AND CAN ACCESS THE PROPS WHERE WE HAVE TO USE IT BY DESTRUCTING IT.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
