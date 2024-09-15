@@ -8,7 +8,6 @@ import About from './components/About/About.jsx'
 import Contact from './components/Contact/Contact.jsx'
 // import User from './components/User/User.jsx'
 import Github from './components/Github/Github.jsx'
-import App from './App.jsx'
 import Card from './components/Card/Card.jsx'
 import Mygithub from './components/Mygithub/Mygithub.jsx'
 
