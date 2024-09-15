@@ -2,11 +2,9 @@ import React, { useEffect, useState } from 'react'
 
 import ThemeBtn from './components/togglebutton/ThemeBtn'
 import { ThemeProvider } from './context/Theme'
-// import { useTheam } from './context/Theme'
 
 
 function App() {
-    // const {Theme, darkTheme, lightTheme} = useTheam()
     const [Theme , setTheme] = useState('light')
     const darkTheme = () => {
          setTheme("dark")
